@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Kindly visit 👉 [karamchandanid](https://github.com/karamchandanid)
+
+<img src="https://komarev.com/ghpvc/?username=karamchandani&color=brightgreen" alt="watching_count" />
 <!--
 **karamchandani/karamchandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
